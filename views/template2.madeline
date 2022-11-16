@@ -1,0 +1,8 @@
+<head>
+#model#
+</head>
+<body>
+<header>#make#</header>
+#content#
+#year#
+</body>
